@@ -1,2 +1,2 @@
 # html-to-xlsx
-Visit for documntaion https://www.letsthink.in/.
+Visit for documentation https://www.letsthink.in/.
